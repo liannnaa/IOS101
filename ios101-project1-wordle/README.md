@@ -16,7 +16,11 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-https://imgur.com/xAq56E8.gif
+Here's a walkthrough of implemented user stories:
+
+<img src='[https://imgur.com/txGoko1.gif](https://imgur.com/xAq56E8.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with Kap
 
 ## Notes
 
